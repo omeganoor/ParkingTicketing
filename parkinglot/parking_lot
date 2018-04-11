@@ -1,0 +1,2 @@
+$ java -jar target/parkinglot-1.0.0.jar (Interactive command-line mode)
+$ java -jar target/parkinglot-1.0.0.jar <inputfile> (File input)
